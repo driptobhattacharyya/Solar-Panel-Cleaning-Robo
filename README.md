@@ -2,4 +2,4 @@
 Technology to keep solar panel dust free without water!
 
 Circuit Diagram:
-![Circuit](https://user-images.githubusercontent.com/69194631/167133138-7dda786c-a4b4-4573-9913-253cc71143ad.png)
+![image](https://user-images.githubusercontent.com/69194631/167133632-705a3bfc-ece6-448c-bc52-b935fb3552d0.png)
